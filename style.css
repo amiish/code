@@ -1,0 +1,12 @@
+.dr{
+    background-color: rgb(38, 0, 255);
+    color: beige;
+    border:1px solid red ;
+    border-radius: 20px;
+    width: 150px;
+    height: 200px;
+}
+h1{
+    
+    color: black;
+}
